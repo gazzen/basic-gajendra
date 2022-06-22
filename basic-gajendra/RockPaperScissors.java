@@ -21,6 +21,7 @@ public class RockPaperScissors {
        
         do {
 
+            //start
             // Num of rounds
             System.out.println("How many rounds do you want to play? Enter between 1-10.");
             Scanner scanner = new Scanner(System.in);
